@@ -97,7 +97,7 @@
             "latexPost": "\\end{document}",
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
             "latexsvg": false,
-            "name": "Basic",
+            "name": "Basic-51796",
             "originalStockKind": 1,
             "req": [
                 [
@@ -153,6 +153,16 @@
                 "book (ひらがな)"
             ],
             "guid": "v`M9k1R#;L",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1日　（ひらがな）",
+                "ついたち　（かんじ）"
+            ],
+            "guid": "vJGNd)#|m8",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
             "tags": []
         }
