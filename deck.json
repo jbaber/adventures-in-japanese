@@ -129,8 +129,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "本　「ひらがな」",
-                "ほん　「かんじ」"
+                "本　(ひらがな)",
+                "ほん　(かんじ)"
             ],
             "guid": "P1Nt@38Qan",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
@@ -139,8 +139,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "本　「えいごで」",
-                "book ｢かんじ」"
+                "本　(えいごで)",
+                "book ｢かんじ)"
             ],
             "guid": "gOJ3@ot*;B",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
@@ -149,8 +149,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "ほん　「えいごで」",
-                "book 「ひらがな」"
+                "ほん　(えいごで)",
+                "book (ひらがな)"
             ],
             "guid": "v`M9k1R#;L",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
