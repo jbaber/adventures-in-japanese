@@ -165,6 +165,46 @@
             "guid": "vJGNd)#|m8",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "いま　（えいごで）",
+                "now (ひらがな）"
+            ],
+            "guid": "uy1POrH%4L",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "かぞく　（えごで）",
+                "family (ひらがな）"
+            ],
+            "guid": "i(sB/J:8>v",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "いいます　（えいごで）",
+                "say (ひらがな）"
+            ],
+            "guid": "PJE$M#Y7Ik",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "しゅくだい　（えいごで）",
+                "homework (ひらがな）"
+            ],
+            "guid": "bwhdOSsT&I",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
         }
     ],
     "reviewLimit": null,
