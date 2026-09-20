@@ -205,6 +205,126 @@
             "guid": "bwhdOSsT&I",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "しゃしん　（えいごで）",
+                "photo (ひらがな）"
+            ],
+            "guid": "o`msV8l/6C",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "けして　（えいごで）",
+                "turn off (ひらがな）"
+            ],
+            "guid": "Ds^_XtF~_x",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "は（particle)",
+                "wa"
+            ],
+            "guid": "NBN,sOl/[M",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "いい　（えいごで）",
+                "good (ひらがな）"
+            ],
+            "guid": "C{h>oK}SrB",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "３１日　（ひらがな）",
+                "さんじゅういちにち　（かんじ）"
+            ],
+            "guid": "ji/[+M>?9M",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "２１日　（ひらがな）",
+                "にじゅういちにち　（かんじ）"
+            ],
+            "guid": "LaY8r?&}!o",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "？は　にほんごで　なんと　いいますか。　（えいごで）",
+                "how do you say ? in japanese?"
+            ],
+            "guid": "Q4~q;P=,d2",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "１１日　（ひらがな）",
+                "じゅういちにち　（かんじ）"
+            ],
+            "guid": "wE.OhMR8wl",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "かいて　（えいごで）",
+                "write (ひらがな）"
+            ],
+            "guid": "gyWg/,$O,a",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "そこ　（えいごで）",
+                "there (at speaker)"
+            ],
+            "guid": "mgoK305Q/Q",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "すわって　（えいごで）",
+                "sit (ひらがな）"
+            ],
+            "guid": "vsJ_~E6BsJ",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "だして　（えいごで）",
+                "turn in (ひらがな）"
+            ],
+            "guid": "OqBXlv7}@R",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
         }
     ],
     "reviewLimit": null,
