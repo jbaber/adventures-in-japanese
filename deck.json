@@ -179,7 +179,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "かぞく　（えいごで）",
+                "かぞく　（えごで）",
                 "family (ひらがな）"
             ],
             "guid": "i(sB/J:8>v",
@@ -323,6 +323,406 @@
                 "turn in (ひらがな）"
             ],
             "guid": "OqBXlv7}@R",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "あそこ　（えいごで）",
+                "over there"
+            ],
+            "guid": "KG@OgT.q-1",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "みせて　（えいごで）",
+                "show me"
+            ],
+            "guid": "A()Nnq)juq",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "みて　（えいごで）",
+                "look"
+            ],
+            "guid": "Hm}RRiQK52",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "あけて　（えいごで）",
+                "open"
+            ],
+            "guid": "x#[9xbgl6W",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "open (ひらがな）",
+                "あけて"
+            ],
+            "guid": "rEAFlzMB&Z",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "look (ひらがな）",
+                "みて"
+            ],
+            "guid": "f,s-:/~b[C",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "show me (ひらがな）",
+                "みせて"
+            ],
+            "guid": "b<kyMGx<DF",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "over there (ひらがな）",
+                "あそこ"
+            ],
+            "guid": "N92;J2txH(",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "きこえ　（えいごで）",
+                "hear"
+            ],
+            "guid": "cVdxeB!3:u",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "hear (ひらがな）",
+                "きこえ"
+            ],
+            "guid": "jWToapS9(]",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "よんで　（えいごで）",
+                "read"
+            ],
+            "guid": "ifo0-Vr*cg",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "read (ひらがな）",
+                "よんで"
+            ],
+            "guid": "tjf;)~-u]q",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ここ　（えいごで）",
+                "here (speaker)"
+            ],
+            "guid": "cvPGEuPVeP",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "here (speaker) (ひらがな）",
+                "ここ"
+            ],
+            "guid": "CI?.;-gm*s",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "しり　（えいごで）",
+                "know"
+            ],
+            "guid": "9OyYw#nYK",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "know (ひらがな）",
+                "しり"
+            ],
+            "guid": "cAJJ0gcUE<",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "です　（えいごで）",
+                "am, is, are"
+            ],
+            "guid": "sW85xAF_q0",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "am, is, are (ひらがな）",
+                "です"
+            ],
+            "guid": "KP^dFc8D(<",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "えんぴつ　（えいごで）",
+                "pencil"
+            ],
+            "guid": "fNn6kROT/i",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "pencil (ひらがな）",
+                "えんぴつ"
+            ],
+            "guid": "n0p0%o,Jlp",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ぼうし　（えいごで）",
+                "cap, hat"
+            ],
+            "guid": "l=B@Ie:]_R",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "cap, hat (ひらがな）",
+                "ぼうし"
+            ],
+            "guid": "K#ZLRRl9>8",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "だめ　（えいごで）",
+                "Unacceptable"
+            ],
+            "guid": "Lc).4KMOF(",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unacceptable (ひらがな）",
+                "だめ"
+            ],
+            "guid": "fC-p03Pk-*",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "（お）かね　（えいごで）",
+                "money"
+            ],
+            "guid": "JSNNH~t5*%",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "money (ひらがな）",
+                "（お）かね"
+            ],
+            "guid": "g<J~eP_=jb",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ぼく　（えいごで）",
+                "I informally used by males"
+            ],
+            "guid": "FW/K]*o,ks",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I informally used by males (ひらがな）",
+                "ぼく"
+            ],
+            "guid": "K=Y=*u{0%W",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "いつ　（えいごで）",
+                "when"
+            ],
+            "guid": "Gf2$dUZGX_",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "when (ひらがな）",
+                "いつ"
+            ],
+            "guid": "B3i|#-DPBl",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "みえ　（えいごで）",
+                "see"
+            ],
+            "guid": "Nd&Bnl`r@8",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "see (ひらがな）",
+                "みえ"
+            ],
+            "guid": "qhv!jBjp9!",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "かみ　（えいごで）",
+                "paper"
+            ],
+            "guid": "nW7r?S[bzp",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "paper (ひらがな）",
+                "かみ"
+            ],
+            "guid": "Ra_vEg<k=H",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "どうぞ　よろしく　（えいごで）",
+                "Nice to meet you"
+            ],
+            "guid": "c@Xt/Q):71",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nice to meet you (ひらがな）",
+                "どうぞ　よろしく"
+            ],
+            "guid": "HfXs=yWhU#",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "しめて　（えいごで）",
+                "close"
+            ],
+            "guid": "vl<|X;htE`",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "close (ひらがな）",
+                "しめて"
+            ],
+            "guid": "v=^ly-+x05",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "きいて　（えいごで）",
+                "listen"
+            ],
+            "guid": "F4Ew=O-0WX",
+            "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "listen (ひらがな）",
+                "きいて"
+            ],
+            "guid": "CbwN$reI]m",
             "note_model_uuid": "fb66a984-b1ca-11f1-9ebf-ed1f3cb998a1",
             "tags": []
         }
